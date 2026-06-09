@@ -3,7 +3,7 @@ package it.uniroma3.diadia.personaggi;
 import it.uniroma3.diadia.Partita;
 import it.uniroma3.diadia.attrezzi.Attrezzo;
 import it.uniroma3.diadia.giocatore.AbstractPersonaggio;
-
+//Classe Cane estende AbstractPersonaggio
 public class Cane extends AbstractPersonaggio {
 
 	private static final String MESSAGGIO_CANE = "Grrr... Ti ho morso! (-1 CFU)";
