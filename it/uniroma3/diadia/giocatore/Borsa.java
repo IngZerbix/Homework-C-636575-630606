@@ -25,7 +25,8 @@ public class Borsa {
 	    this.pesoMax = Configuratore.getPesoMaxBorsa();
 		this.attrezzi = new HashMap<>();
 	}
-	
+
+	//addAttrezzo
 	public boolean addAttrezzo(Attrezzo attrezzo) {
 		if(attrezzo == null)
 				return false;
